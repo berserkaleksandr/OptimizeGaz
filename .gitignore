@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment directories
+env/
+venv/
+*.env
+
+# Editor files
+*.vscode/
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Unit test / coverage results
+coverage.xml
+htmlcov/
+*.coverage
